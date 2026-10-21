@@ -1,8 +1,7 @@
 import streamlit as st
-from src.laboratorio_cg.atv2 import bandeira
 
 st.title("Laboratório de Computação Gráfica")
 st.write("Desenvolvido por: Vitor Alves de Oliveira Cruz")
 
-# Exibe a bandeira criada no atv2.py
-st.image(bandeira, use_container_width=True)
+# Importa o módulo da atividade 2 para executá-lo:
+import src.laboratorio_cg.atv2
