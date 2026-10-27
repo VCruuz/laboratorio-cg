@@ -5,3 +5,5 @@ st.write("Desenvolvido por: Vitor Alves de Oliveira Cruz")
 
 # Importa o módulo da atividade 2 para executá-lo:
 import src.laboratorio_cg.atv2
+
+import src.laboratorio_cg.atv3
